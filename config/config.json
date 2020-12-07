@@ -16,10 +16,10 @@
     "dialect": "postgres"
   },
   "production": {
-    "username": "raditsan",
-    "password": "123456789Zz",
-    "database": "kehadiran_app_db",
-    "host": "127.0.0.1",
+    "username": "jhtjahhxsaopnq",
+    "password": "3c61b4a80f166264aeca30b01f340da66a47f5d3501fb739f8aa6f56ca560d1c",
+    "database": "d9hjcqcguv8mcc",
+    "host": "ec2-23-23-88-216.compute-1.amazonaws.com",
     "port": "5432",
     "dialect": "postgres"
   }
